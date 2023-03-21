@@ -1,0 +1,91 @@
+body, html {
+    height: 200%;
+  }
+
+  .parallax1 {
+    /* The image used */
+    background-image: url("../../../Desktop/images/denji.png");
+  
+    /* Full height */
+    height: 37.5%;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .parallax2 {
+    /* The image used */
+    background-image: url("../../../Desktop/images/Denji-red.jpg");
+  
+    /* Full height */
+    height: 25%;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .parallax3 {
+    /* The image used */
+    background-image: url("../../../Desktop/images/denji-grey.jpg");
+  
+    /* Full height */
+    height: 37.5%;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+div.container4 {
+    height: 10em;
+    position: relative }
+div.container4 p {
+    margin: auto;
+    position: absolute;
+    color: rgba(255, 67, 67, 0.979);
+    top: 270%;
+    left: 55%;
+    font-size: 40px;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    text-decoration: line-through silver;
+ }
+
+ div.container5 {
+    height: 10em;
+    position: relative 
+}
+div.container5 p {
+    margin: auto;
+    position: absolute;
+    color: rgba(236, 236, 188, 0.979);
+    top: 270%;
+    left: 55%;
+    font-size: 40px;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    text-decoration: line-through silver;
+ }
+
+ div.container6 {
+    height: 10em;
+    position: relative }
+div.container6 p {
+    margin: auto;
+    font-size: 40px;
+    position: absolute;
+    color: rgba(236, 236, 188, 0.979);
+    top: 270%;
+    left: 55%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    text-decoration: line-through silver;
+ }
